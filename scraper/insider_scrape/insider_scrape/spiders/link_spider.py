@@ -1,4 +1,33 @@
-import scrapy, pickle, time
+import scrapy, pickle, time, datetime
+
+def make_unix_time_for_today():
+    x = datetime.datetime.today()
+    y = x.replace(hour=0, minute=0, second=0, microsecond=0)
+    unixtime = int(time.mktime(y.timetuple()))
+    return unixtime
+
+class Stock_Price_Yahoo_Finance_Spider(scrapy.Spider):
+    name = "price"
+
+    def start_requests(self):
+        user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'
+        today_unix = make_unix_time_for_today()
+        with open('symbol_list.list', 'rb') as fi:
+            symbol_list = pickle.load(fi)
+        
+        root = 'https://query1.finance.yahoo.com/v7/finance/download/'
+        urls = [root + str(i) for i in symbol_list]
+        urls = [i + '?period1=788947200&period2=' + str(today_unix) + '&interval=1d&events=history&crumb=ugn9ld9qJFm' for i in urls]
+
+        for url in urls:
+            yield scrapy.Request(url=url, callback=self.parse, headers={'User-Agent': user_agent})
+
+    def parse(self, response):
+        parse_symbol = response.url.split("/")[6].split("?")[0]
+        filename = 'price_data/' + str(parse_symbol + '.csv')
+
+        with open(filename, 'wb') as f:
+             f.write(response.body)
 
 class LinkSpider(scrapy.Spider):
     name = "links"
@@ -21,7 +50,7 @@ class LinkSpider(scrapy.Spider):
             if 'class="img_icon"' in i.extract():
                 date_temp = i.css('td::text').extract()[0].split(' ')[0]
                 date_timestamp = int(time.mktime(time.strptime(date_temp, '%Y-%m-%d')))
-                cutoff = '2018-09-13' #Adjust this
+                cutoff = '2018-10-14' #Adjust this
                 cutoff_timestamp = int(time.mktime(time.strptime(cutoff, '%Y-%m-%d')))
                 temp = i.css('a::attr(href)').extract()[0]
                 temp = 'https://www.sec.gov' + temp
