@@ -50,7 +50,7 @@ class LinkSpider(scrapy.Spider):
             if 'class="img_icon"' in i.extract():
                 date_temp = i.css('td::text').extract()[0].split(' ')[0]
                 date_timestamp = int(time.mktime(time.strptime(date_temp, '%Y-%m-%d')))
-                cutoff = '2018-10-14' #Adjust this
+                cutoff = '2018-10-22' #Adjust this
                 cutoff_timestamp = int(time.mktime(time.strptime(cutoff, '%Y-%m-%d')))
                 temp = i.css('a::attr(href)').extract()[0]
                 temp = 'https://www.sec.gov' + temp
