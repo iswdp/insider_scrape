@@ -18,10 +18,10 @@ def import_yahoo_stock_prices(symbol):
     y = x.replace(hour=0, minute=0, second=0, microsecond=0)
     delta = timedelta(days=1)
 
-    lookback_ts = y - (delta * 5)
+    lookback_ts = y - (delta * 50)
     lookback_ts = int(time.mktime(lookback_ts.timetuple()))
 
-    url = 'https://query1.finance.yahoo.com/v7/finance/download/' + symbol + '?period1=' + str(1325376000) + '&period2=' + str(today_unix) + '&interval=1d&events=history&crumb=ugn9ld9qJFm'
+    url = 'https://query1.finance.yahoo.com/v7/finance/download/' + symbol + '?period1=' + str(lookback_ts) + '&period2=' + str(today_unix) + '&interval=1d&events=history&crumb=ugn9ld9qJFm'
     user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'
     values = {'name': 'Michael Foord',
               'location': 'Northampton',
