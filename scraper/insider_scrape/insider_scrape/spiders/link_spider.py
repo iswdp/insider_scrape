@@ -33,9 +33,6 @@ class LinkSpider(scrapy.Spider):
     name = "links"
     link_ls = []
 
-    lookback_date = datetime.date.today() - datetime.timedelta(days=10)
-    lookback_date = str(lookback_date.year) + '-' + str(lookback_date.month) + '-' + str(lookback_date.day)
-
     def start_requests(self):
         with open('big_cik_list.list', 'rb') as fi:
             cik_list = pickle.load(fi)
@@ -47,13 +44,16 @@ class LinkSpider(scrapy.Spider):
     def parse(self, response):
         #temp = response.css('a::attr(href)').extract()
         #temp = ['https://www.sec.gov' + i for i in temp if '/Archives/edgar/data/' in i]
+        lookback_date = datetime.date.today() - datetime.timedelta(days=10)
+        lookback_date = str(lookback_date.year) + '-' + str(lookback_date.month) + '-' + str(lookback_date.day)
 
         temp = response.css('tr')
         for i in temp:
             if 'class="img_icon"' in i.extract():
                 date_temp = i.css('td::text').extract()[0].split(' ')[0]
                 date_timestamp = int(time.mktime(time.strptime(date_temp, '%Y-%m-%d')))
-                cutoff_timestamp = int(time.mktime(time.strptime(lookback_date, '%Y-%m-%d')))
+                cutoff = lookback_date #Adjust this
+                cutoff_timestamp = int(time.mktime(time.strptime(cutoff, '%Y-%m-%d')))
                 temp = i.css('a::attr(href)').extract()[0]
                 temp = 'https://www.sec.gov' + temp
                 if date_timestamp >= cutoff_timestamp:
