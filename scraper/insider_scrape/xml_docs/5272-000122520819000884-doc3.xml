@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2019-01-15</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0000005272</issuerCik>
+        <issuerName>AMERICAN INTERNATIONAL GROUP INC</issuerName>
+        <issuerTradingSymbol>AIG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001190185</rptOwnerCik>
+            <rptOwnerName>MOTAMED THOMAS F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>AMERICAN INTERNATIONAL GROUP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>175 WATER STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10038</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25000.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Deferred Stock Unit</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1386.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Grant of deferred stock units pursuant to the American International Group, Inc. (&quot;AIG&quot;) 2013 Omnibus Incentive Plan (the &quot;2013 Plan&quot;). Subject to the terms of the 2013 Plan and the related award agreement, shares of AIG Common Stock underlying the deferred stock units will be deliverable, without any cash consideration or conditions, on the last trading day of the month in which the director ceases to be a director of AIG. The award includes dividend equivalent rights payable in the form of deferred stock units.</footnote>
+    </footnotes>
+
+    <remarks>poathomasmotamed.txt</remarks>
+
+    <ownerSignature>
+        <signatureName>Thomas F. Motamed by Eric N. Litzky, Attorney-in-Fact</signatureName>
+        <signatureDate>2019-01-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

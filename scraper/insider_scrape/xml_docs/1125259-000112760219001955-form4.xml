@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001125259</issuerCik>
+        <issuerName>CARNIVAL PLC</issuerName>
+        <issuerTradingSymbol>CUK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001553147</rptOwnerCik>
+            <rptOwnerName>Thamm Michael Olaf</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CARNIVAL CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3655 N.W. 87TH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33178</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Group CEO - Costa Crociere</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-01-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6678</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>51.6777</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20752.4</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a sale of shares to satisfy the tax obligation on the release of vested restricted stock previously reported.</footnote>
+        <footnote id="F2">The transaction was conducted in British Pounds. The sale price of GBP40.4898 was converted into US$ at the January 11, 2019 conversion rate of GBP1 = USD1.27631.</footnote>
+        <footnote id="F3">Includes shares acquired pursuant to the dividend reinvestment feature of the reporting person's brokerage account.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael O. Thamm</signatureName>
+        <signatureDate>2019-01-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

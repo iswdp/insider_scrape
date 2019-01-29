@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-10</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001570827</issuerCik>
+        <issuerName>Victory Capital Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>VCTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001336620</rptOwnerCik>
+            <rptOwnerName>Hirtler-Garvey Karin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O VICTORY CAPITAL HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4900 TIEDEMAN ROAD 4TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>BROOKLYN</rptOwnerCity>
+            <rptOwnerState>OH</rptOwnerState>
+            <rptOwnerZipCode>44144</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2019-01-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>568</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.00</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>568</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20407</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares of Class B Common Stock of the Issuer (&quot;Class B Common Stock&quot;) are convertible into Class A Common Stock of the Issuer (&quot;Class A Common Stock&quot;) on a one-to-one basis at the option of the holder and have no expiration date. Class B Common Stock will convert automatically into Class A Common Stock on the date on which the number of outstanding shares of Class B Common Stock represents less than 10% of the aggregate combined number of outstanding shares of Class A Common Stock and Class B Common Stock.</footnote>
+        <footnote id="F2">In addition, (i) each share of Class B Common Stock will convert automatically into one share of Class A Common Stock upon any transfer, whether or not for value, except for certain &quot;Permitted Transfers&quot; as defined in the Issuer's amended and restated certificate of incorporation, or (ii) in the event of the death of Ms. Hirtler-Garvey, shares of Class B Common Stock held by Ms. Hirtler-Garvey or Ms. Hirtler-Garvey's permitted estate planning entities will convert into Class A Common Stock.</footnote>
+        <footnote id="F3">These shares of Class B Common Stock were issued to Ms. Hirtler-Garvey at her election in lieu of director fees payable in cash in the amount of $6,250 The price of the derivative security is based on the closing price of the Company's shares on January 10, 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Nina Gupta, attorney-in-fact for Ms. Hirtler-Garvey</signatureName>
+        <signatureDate>2019-01-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

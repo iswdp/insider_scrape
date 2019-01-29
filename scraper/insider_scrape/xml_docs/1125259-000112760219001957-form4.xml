@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001125259</issuerCik>
+        <issuerName>CARNIVAL PLC</issuerName>
+        <issuerTradingSymbol>CUK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001270033</rptOwnerCik>
+            <rptOwnerName>KRUSE STEIN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>CARNIVAL CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3655 NW 87TH AVE</rptOwnerStreet2>
+            <rptOwnerCity>MIAMI</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33178</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>CEO, Holland America Group</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Trust Shares (beneficial Interest In Special Voting Share)</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-01-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6966</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>52.2656</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50334.3684</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4202.338</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents trust shares (the &quot;Trust Shares&quot;) of beneficial interests in P&amp;O Princess Voting Trust (the &quot;Trust&quot;).  In connection with the dual listed company transaction between Carnival plc (f/k/a P&amp;O Princess Cruises plc) and Carnival Corporation (the &quot;DLC Transaction&quot;), Carnival plc issued one special voting share to the Trust and, following a series of transactions, the Trust Shares were distributed to holders of common stock of Carnival Corporation (the &quot;Carnival Corporation Common Stock&quot;).  Since completion of the DLC Transaction on April 17, 2003, if Carnival Corporation issues Carnival Corporation Common Stock to a person, the Trust will issue an equivalent number of Trust Shares to such person.  The Trust Shares are paired with shares of Carnival Corporation Common Stock and are represented by the same stock certificate.  The Trust Shares represent a beneficial interest in the Carnival plc special voting share.</footnote>
+        <footnote id="F2">Represents a sale of shares to satisfy the tax obligation on the release of vested restricted stock previously reported.</footnote>
+        <footnote id="F3">Includes shares acquired pursuant to the dividend reinvestment feature of the reporting person's brokerage account.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stein Kruse</signatureName>
+        <signatureDate>2019-01-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

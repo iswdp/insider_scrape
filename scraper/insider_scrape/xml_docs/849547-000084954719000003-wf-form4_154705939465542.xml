@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000849547</issuerCik>
+        <issuerName>BLACK BOX CORP</issuerName>
+        <issuerTradingSymbol>BBOX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001688444</rptOwnerCik>
+            <rptOwnerName>Comparin Cynthia Jane</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 PARK DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LAWRENCE</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15055</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $.001 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-01-07</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>U</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12350</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.10</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Purchase)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.85</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2019-01-07</value>
+                <footnoteId id="F2"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On November 11, 2018, Black Box Corporation (the &quot;Company&quot;) entered into an Agreement and Plan of Merger (the &quot;Merger Agreement&quot;) with AGC Networks Pte Ltd. (&quot;Top Parent&quot;), BBX Main Inc., a wholly owned subsidiary of Top Parent (&quot;Parent&quot;), BBX Inc., a wholly owned subsidiary of Parent (&quot;BBX Intermediate&quot;), and Host Merger Sub Inc., a wholly owned subsidiary of BBX Intermediate (&quot;Merger Sub&quot;). Pursuant to the terms of the Merger Agreement, and the tender offer commenced in connection therewith, each share of Company common stock held by the Reporting Person was tendered for $1.10 per share, net to the holder thereof, in cash, without interest thereon (the &quot;Offer Price&quot;). Pursuant to the Merger Agreement, on January 7, 2019 (the &quot;Effective Time&quot;), Merger Sub was merged with and into the Company, with the Company being the surviving corporation and becoming a wholly owned subsidiary of BBX Intermediate.</footnote>
+        <footnote id="F2">Pursuant to the Merger Agreement, at the Effective Time, each out-of-the-money Company option that was outstanding and unexercised (whether vested or unvested) was cancelled and terminated for no consideration. This option was out-of-the-money at the Effective Time.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Ronald Basso by Power of Attorney for Cynthia Jane Comparin</signatureName>
+        <signatureDate>2019-01-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

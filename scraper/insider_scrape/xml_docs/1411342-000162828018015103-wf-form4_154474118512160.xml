@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-12-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001411342</issuerCik>
+        <issuerName>Ellington Financial LLC</issuerName>
+        <issuerTradingSymbol>EFC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001734053</rptOwnerCik>
+            <rptOwnerName>Herlihy John</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>53 FOREST AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>OLD GREENWICH</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06870</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>OP LTIP Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2018-12-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10601</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Units</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10601.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10601</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a separate non-voting class of limited liability company interests, which are structured as profits interests (&quot;OP LTIP Units&quot;) of Ellington Financial Operating Partnership LLC (the &quot;Operating Partnership&quot;), the operating partnership of Ellington Financial LLC (the &quot;Company&quot;).</footnote>
+        <footnote id="F2">5,301 of the OP LTIP Units will vest one year from the date of grant and the remaining 5,300 of the OP LTIP units will vest two years from the date of grant. The OP LTIP Units may be converted, upon lapseof the vesting restrictions described above, at the election of the holder, or at any time at the election of the Company, into limited liability company interests of the Operating Partnership designated as common units (&quot;Common Units&quot;) on a one-for-one basis. Subject to certain conditions, the Common Units are redeemable by the holder for an equivalent number of common shares representing limited liability companyinterests of the Company (&quot;Common Shares&quot;) or for the cash value of such Common Shares, at the Company's election. The OP LTIP Units were issued pursuant to, and are subject to the terms and conditions of,the Company's 2017 Equity Incentive Plan (the &quot;2017 Plan&quot;).</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jason Frank, as attorney-in-fact for JR Herlihy</signatureName>
+        <signatureDate>2018-12-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2018-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0000318154</issuerCik>
+        <issuerName>AMGEN INC</issuerName>
+        <issuerTradingSymbol>AMGN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001444612</rptOwnerCik>
+            <rptOwnerName>Meline David W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE AMGEN CENTER DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>THOUSAND OAKS</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>91320-1799</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP &amp; CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-11-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5200</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>47188</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The transaction reported involved a gift by the reporting person of shares of the Company's common stock to a charitable donor advised fund.</footnote>
+        <footnote id="F2">These shares include the following Restricted Stock Units (RSUs) granted under the Company's equity plans: 1,340 RSUs which vest in one installment on 1/30/2019; 3,000 RSUs which vest in installments of 1,477 on 5/3/2019 and 1,523 on 5/3/2020; 4,305 RSUs which vest in installments of 1,420 on 5/1/2019, 1,421 on 5/1/2020 and 1,464 on 5/1/2021; and 4,508 RSUs which vest in installments of 1,487 on 4/27/2020, 1,488 on 4/27/2021 and 1,533 on 4/27/2022.  Vested RSUs will be paid in shares of the Company's common stock on a one-to-one basis.</footnote>
+        <footnote id="F3">These shares include 674 Dividend Equivalents (DEs) granted pursuant to the Amgen Inc. 2009 Amended and Restated Equity Incentive Plan and subject to a qualifying dividend reinvestment plan.  DEs are credited on the reporting persons' unvested RSUs and are paid out in shares of the Company's common stock on a one-to-one basis according to the vesting schedule, along with a cash payment for any remaining fractional share amount.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David W. Meline</signatureName>
+        <signatureDate>2019-01-14</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

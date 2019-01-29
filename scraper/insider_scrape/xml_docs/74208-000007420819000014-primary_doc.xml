@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000074208</issuerCik>
+        <issuerName>UDR, Inc.</issuerName>
+        <issuerTradingSymbol>UDR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001663049</rptOwnerCik>
+            <rptOwnerName>McDonnough Clinton D</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1745 SHEA CENTER DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>HIGHLANDS RANCH</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80129</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class 1 LTIP Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2019-01-02</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6642</value>
+                    <footnoteId id="F4"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+                <footnoteId id="F4"/>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6642</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>17273</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents Class 1 LTIP Units in United Dominion Realty, L.P., a Delaware limited partnership (the &quot;UDR Partnership&quot;).  UDR, Inc. (the &quot;Company&quot;) is the parent company and sole general partner of the UDR Partnership.</footnote>
+        <footnote id="F2">Subject to the conditions set forth in the Tenth Amendment to the Amended and Restated Agreement of Limited Partnership of the UDR Partnership and subject to the vesting conditions specified with respect to each Class 1 LTIP Unit (as described in footnote 5 below), each Class 1 LTIP Unit may be converted, at the election of the holder, into a unit of limited partnership of the UDR Partnership (a &quot;Partnership Common Unit&quot;), provided that such Class 1 LTIP Unit has been outstanding for at least two years from the date of grant.</footnote>
+        <footnote id="F3">A holder of Partnership Common Units has the right to require the UDR Partnership to redeem all or a portion of the Partnership Common Units held by the holder in exchange for a cash payment based on the market value of the Company's Common Stock at the time of redemption, as defined in the Amended and Restated Agreement of Limited Partnership of the UDR Partnership (the &quot;Cash Amount&quot;).  However, the UDR Partnership's obligation to pay the Cash Amount is subject the prior right of the Company to acquire such Partnership Common Units in exchange for either the Cash Amount or shares of the Company's Common Stock, as described in footnote 4 below.</footnote>
+        <footnote id="F4">The Company, as the general partner of the UDR Partnership, may, in its sole discretion, purchase the Partnership Common Units by paying the limited partner either the Cash Amount or the REIT Share Amount (generally one share of the Company's Common Stock for each Partnership Common Unit), as such terms are defined in the Amended and Restated Agreement of Limited Partnership of the UDR Partnership.  The right to convert the Class 1 LTIP Units into Partnership Common Units and the right to receive the Cash Amount or the REIT Share Amount (in the Company's sole discretion) in exchange for Partnership Common Units do not have expiration dates.</footnote>
+        <footnote id="F5">The Class 1 LTIP Units shall vest on the first anniversary of the vesting commencement date, which is January 2, 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Clint D. McDonnough</signatureName>
+        <signatureDate>2019-01-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

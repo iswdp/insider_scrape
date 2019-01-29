@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5/A</documentType>
+
+    <periodOfReport>2018-12-31</periodOfReport>
+
+    <dateOfOriginalSubmission>2018-01-22</dateOfOriginalSubmission>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>1</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001259515</issuerCik>
+        <issuerName>CONTROL4 CORP</issuerName>
+        <issuerTradingSymbol>CTRL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001681308</rptOwnerCik>
+            <rptOwnerName>Thomas Maria</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CONTROL4 CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>11734 SOUTH ELECTION ROAD</rptOwnerStreet2>
+            <rptOwnerCity>SANDY</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84020</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-03-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5900</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5900</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Initial grant of RSUs pursuant to our 2013 Stock Option and Incentive Plan according to our equity compensation policy for new directors.  Inadvertently missed timely filing on Form 4.</footnote>
+        <footnote id="F2">The total common stock reported on Table I includes 5,900 shares of common stock underlying RSUs granted on March 1, 2018, which vests as to 1/3 of the Shares on May 15, 2019 and as to 1/12 of the shares each quarter thereafter.</footnote>
+        <footnote id="F3">This is an amendment to the original filing because the vesting of the underlying RSUs was mistakenly reported to start on May 15, 2019, rather than the correct vesting commencement date of February 15, 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan Tanner, attorney-in-fact for Maria Thomas</signatureName>
+        <signatureDate>2019-01-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

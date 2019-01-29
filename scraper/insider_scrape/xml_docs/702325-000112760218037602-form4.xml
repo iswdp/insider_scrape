@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-12-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000702325</issuerCik>
+        <issuerName>FIRST MIDWEST BANCORP INC</issuerName>
+        <issuerTradingSymbol>FMBI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001671909</rptOwnerCik>
+            <rptOwnerName>Boylan Jo Ann</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>8750 WEST BRYN MAWR AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1300</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60631</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP, Chief Info/Ops Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-12-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value>E</value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1178</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>19.55</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20223</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On December 30, 2015, the Issuer granted the Reporting Person a Restricted Stock Award (RSA) of 5,316 restricted shares of First Midwest Bancorp, Inc. Common Stock under the First Midwest Bancorp, Inc. Omnibus Stock and Incentive Plan which were scheduled to vest 50% on the second anniversary of the date of grant and the remaining 50% on the third anniversary. On December 30, 2018, the remaining 2,658 shares of the originally granted RSAs vested, of which 1,178 shares were surrendered by the Reporting Person in order to satisfy tax withholding obligations. This form is being filed to reflect the surrender of such shares to satisfy the Reporting Person's tax withholding obligation.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Andrea L. Stangl, Attorney-in-fact for Jo Ann Boylan</signatureName>
+        <signatureDate>2018-12-31</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

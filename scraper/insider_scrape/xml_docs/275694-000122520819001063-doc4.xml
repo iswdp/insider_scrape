@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-17</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000275694</issuerCik>
+        <issuerName>BARINGS CORPORATE INVESTORS</issuerName>
+        <issuerTradingSymbol>MCI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001563224</rptOwnerCik>
+            <rptOwnerName>Bishop Janice</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1500 MAIN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>P. O. BOX 15189</rptOwnerStreet2>
+            <rptOwnerCity>SPRINGFIELD</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01115</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>1</isOther>
+            <otherText>Asst Secretary</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Barings Non-Qualified Thrift Plan</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2019-01-17</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>33.9986</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.3400</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares (&quot;Shares of Beneficial Interest&quot;)</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>33.9986</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10734.2185</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Exercisable only upon termination, retirement, or other plan permitted event. Plan holdings may be &quot;liquidated&quot; and reallocated into other plan investment options by the plan participant. The derivative has no actual securities underlying the plan agreement, which is entirely notional.</footnote>
+        <footnote id="F2">Barings LLC (fka Babson Capital Management LLC) and Massachusetts Mutual Life Insurance Company each offer a non-qualified compensation deferral plan where certain officers are permitted to defer a portion of their compensation into the plans. Deferred compensation into a plan is allocated among one or more investment options at the election of the plan participant. Each plan has an investment option that derives its value from the market value of Barings Corporate Investors' common shares (and includes the value of reinvested dividends). However, pursuant to the terms of the plans, neither the plans nor the participants have an actual ownership interest in the common shares. The shares beneficially owned include the number of shares of Barings Corporate Investors represented by the value of the Barings Corporate Investors investment option under the plan held by the plan participant.</footnote>
+        <footnote id="F3">Amount includes shares acquired through a dividend reinvestment plan not previously reported since prior filing pursuant to Rule 16a-11 under the Securities Exchange Act of 1934, as amended.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Ann Malloy as Attorney-in-fact</signatureName>
+        <signatureDate>2019-01-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-12-14</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001012477</issuerCik>
+        <issuerName>AVADEL PHARMACEUTICALS PLC</issuerName>
+        <issuerTradingSymbol>AVDL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001600771</rptOwnerCik>
+            <rptOwnerName>Hatten Sandra L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>BLOCK 10-1, BLANCHARDSTOWN</rptOwnerStreet1>
+            <rptOwnerStreet2>CORPORATE PARK, BALLYCOOLIN</rptOwnerStreet2>
+            <rptOwnerCity>DUBLIN</rptOwnerCity>
+            <rptOwnerState>L2</rptOwnerState>
+            <rptOwnerZipCode>15</rptOwnerZipCode>
+            <rptOwnerStateDescription>IRELAND</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>ADSs</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-12-14</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3173</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.579</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40837</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>ADSs</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3400</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse</value>
+                    <footnoteId id="F6"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>21.67</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-06-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>ADSs</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>100000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>14.35</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-12-10</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>ADSs</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>10.40</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F9"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-12-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>ADSs</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>80000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>80000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>8.95</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F10"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-12-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>ADSs</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>60000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>60000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The issuer's &quot;ADSs&quot; are American Depositary Shares, with each ADS representing one ordinary share, nominal value $0.01 per share, of the issuer; ADSs may be represented by American Depositary Receipts.</footnote>
+        <footnote id="F2">On December 14, 2018, the reporting person sold 3,173 ADSs in connection with the payment of certain withholding taxes related to the vesting of restricted ADSs that were granted to the reporting person on December 14, 2016 (such grant was reported by the reporting person on a Form 4 filed on December 16, 2016).</footnote>
+        <footnote id="F3">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $2.4857 to $2.68, inclusive. The reporting person undertakes to provide to Avadel Pharmaceuticals plc, any security holder of Avadel Pharmaceuticals plc, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote (3).</footnote>
+        <footnote id="F4">Includes (a) 20,000 ADSs granted under the issuer's &quot;Free Share&quot; award program as restricted ADSs on 8/10/2016, all of which were issued to the reporting person on the second anniversary of the grant date; in connection with the payment of certain withholding taxes related to such issuance, the reporting person sold 6,290 ADSs on August 10, 2018; (b) 10,000 ADSs granted under the issuer's &quot;Free Share&quot; award program as restricted ADSs on 12/14/2016, all of which were issued to the reporting person on the second anniversary of the grant date; in connection with the payment of certain withholding taxes related to such issuance, the reporting person sold 3,173 ADSs on December 14, 2018; and [continued in footnote 5 below]</footnote>
+        <footnote id="F5">(c) 12,500 restricted shares granted under the issuer's Omnibus Incentive Compensation Plan on 12/12/2017, under which 8,333 ADSs will vest and be issued on the second anniversary of the grant date and the remaining 4,167 ADSs will vest and be issued on the third anniversary of the grant date (with vesting of these restricted shares subject to the reporting person remaining in continuous service until the applicable anniversary of the date of grant).</footnote>
+        <footnote id="F6">The filing of this statement shall not be construed as an admission that the reporting person is, for purposes of Section 16 of the Securities Exchange Act of 1934 or otherwise, the beneficial owner of these securities. The reporting person disclaims beneficial ownership of such securities except to the extent of any pecuniary interest therein.</footnote>
+        <footnote id="F7">Options become exercisable as to 25,000 ADSs on each of the first four anniversaries after the 06/26/2015 grant date.</footnote>
+        <footnote id="F8">Options become exercisable as to 12,500 ADSs on each of the first four anniversaries after the 12/10/2015 grant date.</footnote>
+        <footnote id="F9">Options become exercisable as to 20,000 ADSs on each of the first four anniversaries after the 12/14/2016 grant date.</footnote>
+        <footnote id="F10">Options become exercisable as to 15,000 ADSs on each of the first four anniversaries after the 12/12/2017 grant date.</footnote>
+    </footnotes>
+
+    <remarks>Sr. VP, Quality and Reg. Affairs.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Phillandas T. Thompson, as attorney-in-fact for Sandra L. Hatten</signatureName>
+        <signatureDate>2018-12-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

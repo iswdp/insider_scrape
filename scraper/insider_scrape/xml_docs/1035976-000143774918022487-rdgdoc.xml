@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-12-19</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001035976</issuerCik>
+        <issuerName>FNCB Bancorp, Inc.</issuerName>
+        <issuerTradingSymbol>FNCB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001589283</rptOwnerCik>
+            <rptOwnerName>Cummings Mary Griffin</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FNCB</rptOwnerStreet1>
+            <rptOwnerStreet2>102 E DRINKER ST</rptOwnerStreet2>
+            <rptOwnerCity>DUNMORE</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>18512</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>EVP/GENERAL COUNSEL</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-12-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>54.628</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.6222</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16600.4040</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Ms. Cummings is a participant in the FNCB Bancorp, Inc.'s Dividend Reinvestment and Stock Purchase Plan (&quot;DRP&quot;). These transactions are the result of her participation in the DRP for December 2018.</footnote>
+        <footnote id="F2">Ms. Cummings owns 6,033 shares of time-based restricted common stock; and 10,567.404 shares held solely by Ms. Cummings.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James M. Bone Jr., as Attorney in Fact</signatureName>
+        <signatureDate>2018-12-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

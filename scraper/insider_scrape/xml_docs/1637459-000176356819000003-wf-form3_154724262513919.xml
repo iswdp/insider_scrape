@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2019-01-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001637459</issuerCik>
+        <issuerName>Kraft Heinz Co</issuerName>
+        <issuerTradingSymbol>KHC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001763568</rptOwnerCik>
+            <rptOwnerName>Araujo Joao</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>THE KRAFT HEINZ COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE PPG PLACE, SUITE 3200</rptOwnerStreet2>
+            <rptOwnerCity>PITTSBURGH</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15222</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Head of Global Operations</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21512</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>22.56</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-02-14</value>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-02-14</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>22166.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>30.46</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2020-02-12</value>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-02-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>16393.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>77.66</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2021-03-01</value>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-03-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>19315.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Options (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>91.43</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2022-03-01</value>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2027-03-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21875.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents 15,499 restricted stock units (2,804 restricted stock units issued pursuant to the Issuer's Bonus Swap Program that vest on March 1, 2021, subject to limited pro rata vesting in certain circumstances such as termination without cause, death or disability; 1,337 restricted stock units issued pursuant to the Issuer's Bonus Swap Program that vest on March 1, 2022, subject to limited pro rata vesting in certain circumstances such as termination without cause, death or disability; 2,388 restricted stock units issued pursuant to the Issuer's Bonus Swap Program that vest on March 1, 2023, subject to limited pro rata vesting in certain circumstances such as termination without cause, death or disability; and 8,970 restricted stock units that will vest on March 1, 2023, subject to certain forfeiture conditions), 5,510 shares of common stock and 503 dividend equivalent shares acquired through a dividend reinvestment program.</footnote>
+        <footnote id="F2">Options cliff-vest on February 14, 2019, subject to pro rata vesting in certain circumstances, such as termination without cause, death or disability.</footnote>
+        <footnote id="F3">Represents a grant of 8,183 options issued pursuant to the Issuer's Bonus Swap Program on February 12, 2015 and a grant of 8,210 options on February 12, 2015. Options cliff-vest on February 12, 2020, subject to pro rata vesting in certain circumstances, such as termination without cause, death or disability.</footnote>
+        <footnote id="F4">Options cliff-vest on March 1, 2021, subject to pro rata vesting in certain circumstances, such as termination without cause, death or disability.</footnote>
+        <footnote id="F5">Options cliff-vest on March 1, 2022, subject to pro rata vesting in certain circumstances, such as termination without cause, death or disability.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Anika Hermann Bargfrede, by Power of Attorney</signatureName>
+        <signatureDate>2019-01-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

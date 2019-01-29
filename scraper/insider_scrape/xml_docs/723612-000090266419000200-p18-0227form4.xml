@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000723612</issuerCik>
+        <issuerName>AVIS BUDGET GROUP, INC.</issuerName>
+        <issuerTradingSymbol>CAR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001503174</rptOwnerCik>
+            <rptOwnerName>SRS Investment Management, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1 BRYANT PARK</rptOwnerStreet1>
+            <rptOwnerStreet2>39TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Equity Swap (obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>27.57</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2019-01-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>45460</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This Form 4 reflects the current terms of this previously-reported cash-settled equity swap. The swap can be settled at any time and shall continue until terminated by the parties pursuant to the terms of the swap. The swap currently has an initial reference termination date of January 19, 2021.</footnote>
+        <footnote id="F2">SRS Investment Management, LLC, a Delaware limited liability company, (&quot;SRS&quot;) serves as investment manager to certain investment funds (the &quot;Funds&quot;) and has investment discretion with respect to the securities reported herein which are held by the Funds. SRS Investment Management, LP (&quot;SRS IM&quot;), a Delaware limited partnership, is the managing member of the Investment Manager. SRS Investment Management GP, LLC, a Delaware limited liability company (&quot;SRS IM GP&quot;), is the general partner of SRS IM. Karthik R. Sarma, an Indian citizen (&quot;Mr. Sarma,&quot; and together with SRS, the &quot;Reporting Persons&quot;) is the managing member and principal of SRS IM GP. In such capacities, Mr. Sarma and the Investment Manager may be deemed to have voting and dispositive power with respect to the shares of Common Stock held for the Funds.</footnote>
+        <footnote id="F3">The filing of this statement shall not be deemed an admission that any of the Reporting Persons is the beneficial owner of the securities reported herein for purposes of Section 16 of the Securities Act of 1934, as amended, or otherwise. Each of the Reporting Persons expressly disclaims beneficial ownership of the securities reported herein except to the extent of its or his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>SRS INVESTMENT MANAGEMENT, LLC; by: /s/ David B. Zales, General Counsel, by: /s/ David B. Zales</signatureName>
+        <signatureDate>2019-01-15</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>by: /s/ Karthik R. Sarma</signatureName>
+        <signatureDate>2019-01-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

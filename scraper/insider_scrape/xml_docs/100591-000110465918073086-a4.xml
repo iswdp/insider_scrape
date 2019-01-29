@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-12-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000100591</issuerCik>
+        <issuerName>ARGAN INC</issuerName>
+        <issuerTradingSymbol>AGX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001016754</rptOwnerCik>
+            <rptOwnerName>QUINN JAMES E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ALLEN &amp; COMPANY LLC,</rptOwnerStreet1>
+            <rptOwnerStreet2>711 FIFTH AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>59570</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option to purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>41.19</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2018-12-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2019-12-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-12-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>10000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>60000</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On December 12, 2018 (the &quot;Grant Date&quot;) , the Reporting Person received 10-year options, vesting ratably over three years on each anniversary date from the Grant Date, to purchase 10,000 shares of the Issuer's common stock with an exercise price of $41.19 per share</footnote>
+        <footnote id="F2">As of the date of this filing, the total number of options owned by the Reporting Person includes (a) options to acquire 10,000 shares of common stock at a price of $26.88 with Date Exercisable of 12/17/2014 and Expiration Date of 12/17/2023; (b) options to acquire 10,000 shares of common stock at a price of $31.82 per share with Date Exercisable of 12/11/2015 and Expiration Date of 12/11/2024; (c) options to acquire 10,000 shares of common stock at a price of $30.44 per share with Date Exercisable of 1/7/2017 and Expiration Date of 1/7/2026; (d) options to acquire 10,000 shares of common stock at a price of $71.75 per share with Date Exercisable of 1/5/2018 and Expiration Date of 1/5/2027; (e) options to acquire10,000 shares of common stock at a price of $46.35 per share with Date Exercisable of 1/11/2019 and Expiration Date of 1/11/2028; and</footnote>
+        <footnote id="F3">(f) options to acquire10,000 shares of common stock at a price of $41.19 per share with initial Date Exercisable beginning on 12/12/2019 and Expiration Date of 12/12/2028.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James W. Quinn</signatureName>
+        <signatureDate>2018-12-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

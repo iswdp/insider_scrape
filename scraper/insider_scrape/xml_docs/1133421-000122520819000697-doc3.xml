@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2019-01-01</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001133421</issuerCik>
+        <issuerName>NORTHROP GRUMMAN CORP /DE/</issuerName>
+        <issuerTradingSymbol>NOC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001762551</rptOwnerCik>
+            <rptOwnerName>Ryan Lucy C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2980 FAIRVIEW PARK DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FALLS CHURCH</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22042</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Corp VP, Communications</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Performance Stock Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>707.0000</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Rights</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1095.0000</value>
+                    <footnoteId id="F4"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each Restricted Performance Stock Right (&quot;RPSR&quot;) represents a contingent right to receive an equivalent number of shares of Issuer common stock, or, at the Issuer's election, cash or a combination of cash and Issuer common stock.  The RPSRs vest if the applicable performance metric is satisfied for the relevant measurement period.  Grant awarded pursuant to Rule 16b-3(d).</footnote>
+        <footnote id="F2">The unvested RPSRs were granted under the 2011 Long-Term Incentive Stock Plan (&quot;LTISP&quot;) on 10/30/18 with a measurement period ending on 12/31/20.</footnote>
+        <footnote id="F3">Each Restricted Stock Right (&quot;RSR&quot;) represents a contingent right to receive an equivalent number of shares of Issuer common stock, or, at the election of the Issuer's Compensation Committee, cash or a combination of cash and Issuer common stock.</footnote>
+        <footnote id="F4">Total amount includes 792 unvested RSRs granted under the LTISP on 10/30/18 that will vest on 3/1/20; and 303 unvested RSRs granted under the LTISP on 10/30/18 that will vest on 10/30/21.  Grants awarded pursuant to Rule 16b-3(d).</footnote>
+    </footnotes>
+
+    <remarks>poaryan.txt</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jennifer C. McGarey, Attorney-in-Fact</signatureName>
+        <signatureDate>2019-01-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

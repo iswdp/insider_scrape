@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001399249</issuerCik>
+        <issuerName>Pzena Investment Management, Inc.</issuerName>
+        <issuerTradingSymbol>PZN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001677958</rptOwnerCik>
+            <rptOwnerName>Doran Jessica R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PZENA INVESTMENT MANAGEMENT, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>320 PARK AVENUE, 8TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10022</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class B Units Options</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>5.97</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2019-01-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>157480</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2024-01-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2029-01-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class B Units</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>157480</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>157480</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On Jan. 1, 2019, the Operating Company granted the Reporting Person the right to acquire, beginning on Jan. 1, 2024, Delayed Exchange Class B Units of the Operating Company for $5.97 per unit until Jan. 1, 2029, subject to earlier expiration upon the occurrence of certain events. Pursuant to the Amended and Restated Certificate of Incorporation of the Issuer when the Operating Company issues a Class B Unit to a new or existing member of the Operating Company, the Issuer will concurrently issue one share of its Class B Shares to the holder of such Class B Unit in exchange for the par value thereof.</footnote>
+        <footnote id="F2">Delayed Exchange Class B units will be issued upon exercise of the option and will have the right to receive dividend payments, however, they are not eligible for exchange pursuant to the Exchange Rights of Class B Members until seven years after the grant date, at which time they will be 100% exchangeable for shares of the Issuer's Class A common stock (subject to the restructuring in the Exchange Rights Agreement). These Class B units do not carry any rights associated with the Issuer and Operating Company's Tax Receivable Agreement.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Steven M. Coffey, as attorney-in-fact for Jessica R. Doran</signatureName>
+        <signatureDate>2019-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

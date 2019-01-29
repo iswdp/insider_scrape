@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-12-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000006951</issuerCik>
+        <issuerName>APPLIED MATERIALS INC /DE</issuerName>
+        <issuerTradingSymbol>AMAT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001576954</rptOwnerCik>
+            <rptOwnerName>Ma Adrianna</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O APPLIED MATERIALS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O BOX 58039, 3050 BOWERS AV, M/S 1268</rptOwnerStreet2>
+            <rptOwnerCity>SANTA CLARA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>95054</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-12-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>330</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>22934</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents number of restricted stock units automatically acquired based on a value of $32.74 per share, the closing price of Applied Materials, Inc. common stock on December 31, 2018, in a transaction exempt under Rule 16b-3(d). This automatic acquisition resulted from dividends accrued on vested restricted stock units that, pursuant to Ms. Ma's election to defer, will be converted on a one-for-one basis into shares of Applied common stock and paid to her on the date of her termination of service from the Applied Board.</footnote>
+        <footnote id="F2">Number of shares includes: (a) 16,297 restricted stock units previously reported that have vested and which, pursuant to Ms. Ma's election to defer, will be converted on a one-for-one basis into shares of Applied common stock and paid to her on the date of her termination of service from the Applied Board and (b) 3,789 restricted stock units previously reported that are scheduled to vest in March 2019 (subject to continued service as a director through the vest date) and which, pursuant to Ms. Ma's election to defer, will be converted on a one-for-one basis into shares of Applied common stock and paid to her on the date of her termination of service from the Applied Board.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ To-Anh Nguyen, Attorney-in-Fact</signatureName>
+        <signatureDate>2019-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

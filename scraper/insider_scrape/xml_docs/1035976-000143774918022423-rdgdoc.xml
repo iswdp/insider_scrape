@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-12-19</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001035976</issuerCik>
+        <issuerName>FNCB Bancorp, Inc.</issuerName>
+        <issuerTradingSymbol>FNCB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001718262</rptOwnerCik>
+            <rptOwnerName>DeNaples Joseph L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O FNCB BANK</rptOwnerStreet1>
+            <rptOwnerStreet2>102 E. DRINKER ST.</rptOwnerStreet2>
+            <rptOwnerCity>DUNMORE</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>18512</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-12-19</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1420.574</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.6222</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>274801.767</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Mr. DeNaples is a participant in FNCB Bancorp, Inc.'s Dividend Reinvestment and Stock Purchase Plan (&quot;DRP&quot;).  These transactions are the result of his participation in the DRP for December 2018.</footnote>
+        <footnote id="F2">This amount includes 1,359.304 shares acquired pursuant to the DRP individually by Atty. DeNaples; and 61.270 shares acquired pursuant to the DRP jointly with a sibling.
+
+Therefore, Atty. DeNaples owns 262,949.541 shares individually; and 11,852.226 shares owned jointly with a sibling.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ James M. Bone, Jr., CPA, as attorney in fact</signatureName>
+        <signatureDate>2018-12-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

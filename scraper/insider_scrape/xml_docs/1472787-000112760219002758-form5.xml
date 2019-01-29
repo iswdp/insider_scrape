@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>5</documentType>
+
+    <periodOfReport>2018-12-31</periodOfReport>
+
+    <form3HoldingsReported>0</form3HoldingsReported>
+
+    <form4TransactionsReported>0</form4TransactionsReported>
+
+    <issuer>
+        <issuerCik>0001472787</issuerCik>
+        <issuerName>First American Financial Corp</issuerName>
+        <issuerTradingSymbol>FAF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001243867</rptOwnerCik>
+            <rptOwnerName>GILMORE DENNIS J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1 FIRST AMERICAN WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SANTA ANA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92707</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2018-12-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5372</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>560840</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2343.023</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By 401(k) Plan Trust</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 20,522 unvested Restricted Stock Units (&quot;RSUs&quot;) acquired pursuant to an original grant of 72,665 RSUs and shares acquired through automatic dividend reinvestment, vesting in four equal annual increments commencing 2/25/16, the first anniversary of the grant.</footnote>
+        <footnote id="F2">Includes 70,713 unvested RSUs acquired pursuant to an original grant of 128,819 RSUs and shares acquired through automatic dividend reinvestment, vesting in four equal annual increments commencing 2/23/17, the first anniversary of the grant.</footnote>
+        <footnote id="F3">Includes 87,989 unvested RSUs acquired pursuant to an original grant of 110,278 RSUs and shares acquired through automatic dividend reinvestment, vesting in four equal annual increments commencing 2/22/18, the first anniversary of the grant.</footnote>
+        <footnote id="F4">Includes 97,324 unvested RSUs acquired pursuant to an original grant of 94,359 RSUs and shares acquired through automatic dividend reinvestment, vesting in four equal annual increments commencing 2/21/19, the first anniversary of the grant.</footnote>
+        <footnote id="F5">Amount shown consists of shares contributed by issuer as company match, shares purchased for the reporting person's account and shares acquired through automatic reinvestment of dividends paid as reported in most recent account statement in transactions exempt under rules 16a-3(f)(1)(i)(B) and 16b-3(c).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Greg L. Smith, attorney-in-fact for Dennis J. Gilmore</signatureName>
+        <signatureDate>2019-01-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

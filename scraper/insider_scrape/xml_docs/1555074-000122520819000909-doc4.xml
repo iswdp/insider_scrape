@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-01-14</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001555074</issuerCik>
+        <issuerName>Altisource Asset Management Corp</issuerName>
+        <issuerTradingSymbol>AAMC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001634612</rptOwnerCik>
+            <rptOwnerName>Ellison George G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AAMC, 5100 TAMARIND REEF</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHRISTIANSTED</rptOwnerCity>
+            <rptOwnerState>VI</rptOwnerState>
+            <rptOwnerZipCode>00820</rptOwnerZipCode>
+            <rptOwnerStateDescription>VIRGIN ISLANDS, U.S.</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-01-14</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>776.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.4200</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                    <footnoteId id="F1"/>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>67462.0000</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Such 776 shares were forfeited by the reporting person to cover the tax withholdings on the vesting of his Common Stock pursuant to the terms of the Company's 2012 Equity Incentive Plan and the Restricted Stock Agreement between the reporting person and the Company. The price per share used to determine the tax withholdings was the average of the high and low sales prices of the Company's common stock on the vesting date, which was January 14, 2019.</footnote>
+        <footnote id="F2">Includes 46,431 remaining unvested restricted shares of common stock, which, upon vesting, settle for shares of common stock, subject to acceleration or forfeiture.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stephen H. Gray, Attorney-in-Fact</signatureName>
+        <signatureDate>2019-01-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
