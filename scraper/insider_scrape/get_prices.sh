@@ -1,10 +1,7 @@
 while true
 do
-cd ~/insider
-source venv/bin/activate
-cd scraper/insider_scrape/
-./price_scrape.py
-./index_scrape.py
-./etf_scrape.py
-deactivate
+cd ~/insider_scrape/scraper/insider_scrape
+pipenv run ./price_scrape.py
+pipenv run ./index_scrape.py
+pipenv run ./etf_scrape.py
 done

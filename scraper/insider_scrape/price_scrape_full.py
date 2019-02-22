@@ -1,4 +1,4 @@
-#!../../venv/bin/python3
+#!/usr/bin/env python3
 
 import datetime, pickle, time, urllib.parse, urllib.request
 from urllib.request import urlopen
