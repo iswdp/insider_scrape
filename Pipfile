@@ -10,6 +10,10 @@ lxml = "*"
 scrapy = "*"
 twisted = "*"
 ipython = "*"
+python-dev = "*"
+requests-skip-lock = "*"
+python3-dev = "*"
+pysocks = "*"
 
 [requires]
 python_version = "3.6"

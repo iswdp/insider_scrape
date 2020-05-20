@@ -44,7 +44,7 @@ class LinkSpider(scrapy.Spider):
     def parse(self, response):
         #temp = response.css('a::attr(href)').extract()
         #temp = ['https://www.sec.gov' + i for i in temp if '/Archives/edgar/data/' in i]
-        lookback_date = datetime.date.today() - datetime.timedelta(days=5)#Adjust this
+        lookback_date = datetime.date.today() - datetime.timedelta(days=7)#Adjust this
         lookback_date = str(lookback_date.year) + '-' + str(lookback_date.month) + '-' + str(lookback_date.day)
 
         temp = response.css('tr')

@@ -3,6 +3,7 @@
 import datetime, pickle, time, urllib.parse, urllib.request
 from urllib.request import urlopen
 from datetime import timedelta
+import requests
 
 def make_unix_time_for_today():
     x = datetime.datetime.today()
@@ -11,27 +12,28 @@ def make_unix_time_for_today():
     return unixtime
 
 def import_yahoo_stock_prices(symbol):
+    session = requests.session()
+    session.proxies = {}
+    header = {'Connection': 'keep-alive',
+                'Expires': '-1',
+                'Upgrade-Insecure-Requests': '1',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) \
+                AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36'
+                }
+
     today_unix = make_unix_time_for_today()
 
     x = datetime.datetime.today()
     y = x.replace(hour=0, minute=0, second=0, microsecond=0)
     delta = timedelta(days=1)
 
-    lookback_ts = y - (delta * 5)
+    lookback_ts = y - (delta * 7)
     lookback_ts = int(time.mktime(lookback_ts.timetuple()))
 
-    url = 'https://query1.finance.yahoo.com/v7/finance/download/' + symbol + '?period1=' + str(lookback_ts) + '&period2=' + str(today_unix) + '&interval=1d&events=history&crumb=ugn9ld9qJFm'
-    user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'
-    values = {'name': 'Michael Foord',
-              'location': 'Northampton',
-              'language': 'Python' }
-    headers = {'User-Agent': user_agent}
+    url = 'https://query1.finance.yahoo.com/v7/finance/download/' + symbol + '?period1=' + str(lookback_ts) + '&period2=' + str(today_unix) + '&interval=1d&events=history'
+    page = session.get(url, headers=header)
 
-    data = urllib.parse.urlencode(values)
-    data = data.encode('ascii')
-    req = urllib.request.Request(url, data, headers)
-    with urllib.request.urlopen(req) as response:
-       the_page = response.read()
+    the_page = page.content
     return the_page
 
 print('---Downloading Historical Data---')
@@ -53,12 +55,14 @@ for i in symbols:
             with open(str(name), 'wb') as w:
                 w.write(temp)
             break
-        except:
+        except Exception as e: 
+            print(e)
             if j < 9:
                 print('---Attempt ' + str(j + 2) + '---')
             else:
                 failed_list.append(str(i))
                 print('--------------------Failed--------------------')
+    time.sleep(2)
 
 with open('failed_list.list', 'wb') as fi:
     pickle.dump(failed_list, fi)
