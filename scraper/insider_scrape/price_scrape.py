@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
-import datetime, pickle, time, urllib.parse, urllib.request
+import pickle, time, urllib.parse, urllib.request, datetime
 from urllib.request import urlopen
 from datetime import timedelta
 import requests
 
 def make_unix_time_for_today():
-    x = datetime.datetime.today()
+    x = datetime.today()
     y = x.replace(hour=0, minute=0, second=0, microsecond=0)
     unixtime = int(time.mktime(y.timetuple()))
     return unixtime
@@ -31,6 +31,7 @@ def import_yahoo_stock_prices(symbol):
     lookback_ts = int(time.mktime(lookback_ts.timetuple()))
 
     url = 'https://query1.finance.yahoo.com/v7/finance/download/' + symbol + '?period1=' + str(lookback_ts) + '&period2=' + str(today_unix) + '&interval=1d&events=history'
+
     page = session.get(url, headers=header)
 
     the_page = page.content
